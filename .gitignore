@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# Outputs (generated — do not commit large binaries)
+flight_path.html
+flight_path.png
+
+# Logs
+*.log
