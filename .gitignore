@@ -24,6 +24,11 @@ venv/
 # Outputs (generated — do not commit large binaries)
 flight_path.html
 flight_path.png
+monte_carlo.html
+monte_carlo.png
+
+# Hermes agent state
+.hermes.md
 
 # Logs
 *.log
